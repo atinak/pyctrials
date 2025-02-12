@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/pyctrials.egg-info/PKG-INFO
+src/pyctrials.egg-info/SOURCES.txt
+src/pyctrials.egg-info/dependency_links.txt
+src/pyctrials.egg-info/requires.txt
+src/pyctrials.egg-info/top_level.txt
