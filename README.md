@@ -80,7 +80,7 @@ Returns:
 ### Basic Usage
 
 ```python
-from clinical_trials_api import ClinicalTrialsAPI
+from pyctrials import ClinicalTrialsAPI
 
 # Initialize client
 client = ClinicalTrialsAPI()
