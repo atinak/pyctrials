@@ -4,7 +4,7 @@ ClinicalTrials.gov API Client
 A Python client for interacting with the ClinicalTrials.gov API v2.
 Provides functionality to fetch, parse, and analyze clinical trial data.
 
-Author: [Your Name]
+Author: Anass Tinakoua
 License: MIT
 """
 
