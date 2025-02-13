@@ -13,7 +13,7 @@ pip install pyctrials
 ## Quick Start
 
 ```python
-from clinical_trials_api import ClinicalTrialsAPI
+from pyctrials import ClinicalTrialsAPI
 
 # Initialize the client
 client = ClinicalTrialsAPI()
